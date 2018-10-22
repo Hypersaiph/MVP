@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         //my github :v
         //my github x2 :v
         var a = 1
+        var b = 2
     }
 }
