@@ -25,3 +25,11 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+ext {
+    espressoVersion = '3.0.1'
+    rxjavaVersion = '2.1.10'
+    rxAndroid = "2.0.1"
+    rxandroidVersion = '2.0.1'
+    archVersion = '1.1.1'
+}
